@@ -1,3 +1,5 @@
+Record your random thoughts throughout the day by interacting with an api
+
 # API Endpoints
 
 # User Management with Djoser + Django Rest Framework
