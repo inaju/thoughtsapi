@@ -31,6 +31,10 @@ The refresh and access token would be returned, you append "Bearer <token>" to u
 
 ``` \env\Scripts\activate.bat ```- Windows
 
+``` pip install -r requirements.txt ```
+
+> The main packages we need are ```djangorestframework```, ```djangorestframework-simplejwt ```, ```djoser ```, ```Django```
+
 ``` python manage.py makemigrations ```
 
 ``` python manage.py migrate ```
