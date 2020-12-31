@@ -30,6 +30,7 @@ The refresh and access token would be returned, you append "Bearer <token>" to u
 ``` \env\Scripts\activate.bat ```- Windows
 
 ``` python manage.py makemigrations ```
+
 ``` python manage.py migrate ```
 
 ``` python manage.py runserver ```
